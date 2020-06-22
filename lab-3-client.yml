@@ -1,4 +1,5 @@
 lucky-word: Irish,Rabbit's Foot,Serendipity
+---
 wordConfig:
- luckyWord: Irish,Rabbit's Foot,Serendipity
- preamble: The lucky word is
+  preamble: The lucky word is
+  luckyWord: Irish
